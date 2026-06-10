@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-06-10
+  Features:
+    - Adds a draggable window showing a live camera that follows another player.
+    - Dropdown to choose which player to watch.
+    - Follows the watched player into Remote View, including onto other planets.
+    - Zoom in/out buttons, a close button, and a top-left toolbar button to reopen.

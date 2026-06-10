@@ -1,0 +1,11 @@
+{
+  "name": "friend-cam",
+  "version": "0.1.0",
+  "title": "Friend Cam",
+  "author": "Tibor Hercz",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "description": "Shows a small live window that follows your friend in multiplayer."
+}

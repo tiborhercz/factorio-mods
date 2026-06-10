@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-06-10
+  Features:
+    - Renamed circuits to community "chip" names (green/red/blue chip).
+    - Renamed transport belts, underground belts and splitters by color tier (yellow/red/blue/green).
+    - Renamed inserters by color (yellow/red/blue/green).
+    - Renamed logistic chests by color (red/purple/yellow/green/blue).
+    - Renamed science packs by color (red/green/black/blue/purple/yellow/white).
+    - Kept original vanilla names in parentheses so existing search terms still match.

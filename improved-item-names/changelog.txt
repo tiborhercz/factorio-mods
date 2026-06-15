@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-06-15
+  Changes:
+    - Changed name format to "Original name (Color)" so the vanilla name reads first and the color tag
+      follows in parentheses (e.g. "Electronic circuit (Green)", "Transport belt (Yellow)").
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2026-06-10
   Features:

@@ -1,0 +1,11 @@
+{
+  "name": "buddy-teleport",
+  "version": "0.1.0",
+  "title": "Buddy Teleport",
+  "author": "Tibor Hercz",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "description": "Teleport to a buddy's view location (where they're looking, not their character) with a hotkey."
+}

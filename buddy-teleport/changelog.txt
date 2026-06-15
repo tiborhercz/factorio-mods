@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-06-15
+  Features:
+    - Adds a "Teleport to buddy" hotkey (default Ctrl+T) that jumps you to a buddy's view location.
+    - Press the hotkey again to return to exactly where you were standing before the jump.
+    - Teleports to where the buddy is looking (remote view / camera), not their physical character.
+    - Top-left toolbar button opens a draggable panel with a dropdown to choose which buddy to follow.
+    - Finds a safe non-colliding spot near the target and crosses surfaces (e.g. onto other planets).
